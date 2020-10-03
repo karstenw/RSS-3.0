@@ -54,19 +54,33 @@ An item ends at the first blank line (that is, a line with no characters).
 <p>The head is an <strong>item</strong>. Names for the lines are globally assigned. Names are case-insensitive. The assigned names are:</p>
 
 <a href="#title">title</a>
+
 <a href="#description">description</a>
+
 <a href="#link">link</a>
+
 <a href="#generator">generator</a>
+
 <a href="#errorsto">errorsto</a>
+
 <a href="#creator">creator</a>
+
 <a href="#created">created</a>
+
 <a href="#last-modified">last-modified</a>
+
 <a href="#language">language</a>
+
 <a href="#rights">rights</a>
+
 <a href="#license">license</a>
+
 <a href="#guid">guid</a>
+
 <a href="#uri">uri</a>
+
 <a href="#subject">subject</a>
+
 
 Most properties refer to the whole feed in addition to the item. i.e. last-modified is the last-modified date of the feed.
 
