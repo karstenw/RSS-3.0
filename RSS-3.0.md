@@ -91,25 +91,45 @@ Most properties refer to the whole feed in addition to the item. i.e. last-modif
 The body is a series of zero or more items. Names for the lines are globally-assigned and case-insensitive. The assigned names are:
 
 <a href="#title">title</a>
+
 <a href="#description">description</a>
+
 <a href="#link">link</a>
+
 <a href="#generator">generator</a>
+
 <a href="#creator">creator</a>
+
 <a href="#created">created</a>
+
 <a href="#last-modified">last-modified</a>
+
 <a href="#language">language</a>
+
 <a href="#rights">rights</a>
+
 <a href="#license">license</a>
+
 <a href="#guid">guid</a>
+
 <a href="#uri">uri</a>
+
 <a href="#subject">subject</a>
+
 <a href="#enclosure-type">enclosure-type</a>
+
 <a href="#enclosure-length">enclosure-length</a>
+
 <a href="#enclosure-uri">enclosure-uri</a>
+
 <a href="#enclosure-episode">enclosure-episode</a>
+
 <a href="#enclosure-season">enclosure-season</a>
+
 <a href="#enclosure-explicit">enclosure-explicit</a>
+
 <a href="#enclosure-duration">enclosure-duration</a>
+
 <a href="#enclosure-tags">enclosure-tags</a>
 
 
@@ -165,7 +185,7 @@ The body is a series of zero or more items. Names for the lines are globally-ass
 
 
 
-The tokens highlighted in blue color are suggested extensions to Aaron's original specification, so a RSS 3.0 would be able to carry enough information for podcasts. This is done by adding tokens to describe and specify properties for podcast episodes, download length, duration, MIME-type and episode season and sequence numbers, as well to signal if the particular episode is explicit in content, tags to further describe the episode. 
+The tokens starting with "enclosure-" are suggested extensions to Aaron's original specification, so a RSS 3.0 would be able to carry enough information for podcasts. This is done by adding tokens to describe and specify properties for podcast episodes, download length, duration, MIME-type and episode season and sequence numbers, as well to signal if the particular episode is explicit in content, tags to further describe the episode. 
 
 
 
