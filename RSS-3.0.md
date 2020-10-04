@@ -228,12 +228,14 @@ description: Latest updates on RSS 3.0.
 link: http://www.aaronsw.com/2002/rss30
 creator: me@aaronsw.com Aaron Swartz
 errorsTo: me@aaronsw.com Aaron Swartz
-language: en-UStitle: Spec Introduced
+language: en-US
+
+title: Spec Introduced
 created: 2002-09-06
 guid: 00795648-C1E0-11D6-9AA6-003065F376B6
 description:
   The spec was introduced to the world.
-
+  
   A few people noticed.
 
 Title: Zooko Likes It
