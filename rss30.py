@@ -48,6 +48,21 @@ def makeunicode(s, srcencoding="utf-8", normalizer="NFC"):
     return s
 
 
+def printdict( d, order=None ):
+    if order != None:
+        keys = order
+    else:
+        keys = d.keys()
+    
+    for key in keys:
+        val = d.get(key, None)
+        if val == None:
+            continue
+        print( key.encode("utf-8") )
+        print( "    " + val.encode("utf-8") )
+        print()
+
+
 class RSS3(object):
     """A minimal, quick and dirty rss30 parser."""
 
@@ -79,8 +94,12 @@ class RSS3(object):
 
     def prnt(self):
         # pretty print a feed
-        pp( self.header )
-        pp( self.entries )
+        print("#" * 10)
+        printdict( self.header, order=RSS3.alltags )
+        print("#" * 10)
+        for entry in self.entries:
+            printdict( entry, order=RSS3.alltags )
+            print("   -" * 5)
 
 
     def fromString(self, s):
@@ -99,7 +118,8 @@ class RSS3(object):
         unx = s.count( "\n\n" )
         
         # for now improvising
-        items = s.split( "\n\n" )
+        s = makeunicode( s )
+        items = s.split( u"\n\n" )
         
         for item in items:
             p = Parser()
