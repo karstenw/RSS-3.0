@@ -1,0 +1,40 @@
+title: RSS 3.0 News
+description: Latest updates on RSS 3.0.
+link: http://www.aaronsw.com/2002/rss30
+creator: me@aaronsw.com Aaron Swartz
+errorsTo: me@aaronsw.com Aaron Swartz
+language: en-US
+
+title: Spec Introduced
+created: 2002-09-06
+guid: 00795648-C1E0-11D6-9AA6-003065F376B6
+description:
+  The spec was introduced to the world.
+  
+  A few people noticed.
+
+Title: Zooko Likes It
+Created: 2002-09-06
+GUID: 0894CB2F-C1E0-11D6-9649-003065F376B6
+Description: Zooko says he likes the spec.
+
+title: A podcast extension?
+created: 2018-04-08 19:19:26
+last-modified: 2018-04-08 19:21:34
+description: A possible extension of Aaron's RSS 3.0 draft with aim to add podcast capabilities.
+  New tokens added to accommodate values used for podcasts of audio and video contents.
+  enclosure-type
+  enclosure-length
+  enclosure-uri
+  enclosure-episode
+  enclosure-season
+  enclosure-explicit
+  enclosure-duration
+  enclosure-tags
+  The above list would be able to carry enough information to replace RSS 2.0 feeds
+enclosure-type: audio/mpeg
+enclosure-length: 10485760
+enclosure-uri: https://content.example.com/podcast/audio/does-not-exist.mp3
+enclosure-explicit: No
+enclosure-duration: 00:08:13
+enclosure-tags: RSS 3.0, podcast, tokens, random blab, horses are insects

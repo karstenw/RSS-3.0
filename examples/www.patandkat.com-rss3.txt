@@ -1,0 +1,82 @@
+title: Vertical Hold
+description: Welcome to the Z-list.
+link: http://www.patandkat.com/pat/weblog/
+language: en-us
+creator: pberry@piratehaven.org
+rights: Copyright 2003 Patrick Berry
+last-modified: 2003-10-09T21:01:39-08:00
+generator: http://www.movabletype.org/?v=2.64
+errorsto: pberry@piratehaven.org
+
+title: Hillary Clinton on TDS
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/09/003424.php#003424
+description: Hillary Clinton Daily Show Quicktime clips are up thanks to Lisa Rein.
+subject: Politics
+date: 2003-10-09T21:01:39-08:00
+
+title: Pre-emtive Excuses
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/09/003423.php#003423
+description: Arnold continues to try and lower expectations and prepare for the coming fight with the California State Legislature.  Good luck Arnold.  You'll need a double dose for sure.
+subject: Politics
+date: 2003-10-09T19:38:02-08:00
+
+title: Welcome to "Your Wrong Night"
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/09/003421.php#003421
+description: Watch Fox News if you like being wrong all the time.
+subject: No Comment.
+date: 2003-10-09T08:59:33-08:00
+
+title: Welcome to the Honeymoon
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/08/003420.php#003420
+description: Arnold short form: I will give you everything you want and cut taxes!
+subject: Politics
+date: 2003-10-08T14:51:32-08:00
+
+title: A Promise is a Promise
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/08/003418.php#003418
+description: sacbee.com &#8212; Politics &#8212; Tour rolls into capital &#8220;As soon as the campaign is over I will &#8212; I can...
+subject: Politics
+date: 2003-10-08T08:03:28-08:00
+
+title: Davis Classy In Defeat
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/07/003417.php#003417
+description: Davis going out with class.
+subject: Politics
+date: 2003-10-07T21:03:57-08:00
+
+title: Electric Sheep?
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/06/003416.php#003416
+description: Warren Ellis commands I read, and I do.
+subject: WWW
+date: 2003-10-06T23:02:11-08:00
+
+title: James Bond DVD Extravaganza
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/06/003415.php#003415
+description: I (heart) Bond movies.
+subject: Movies
+date: 2003-10-06T21:02:08-08:00
+
+title: Judges?  We don't need no stinkin' judges!
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/06/003414.php#003414
+description: Protesting the SCOTUS in a way that makes no sense, to me at least.
+subject: No Comment.
+date: 2003-10-06T14:24:20-08:00
+
+title: Arnold's Campaign
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/05/003412.php#003412
+description: Arnold leans on the LA Times and his campaign in short form.
+subject: Politics
+date: 2003-10-05T09:54:15-08:00
+
+title: Rundown
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/05/003411.php#003411
+description: The Rundown.  It didn't suck.
+subject: Movies
+date: 2003-10-05T09:16:47-08:00
+
+title: Middle East Peace
+link: http://www.patandkat.com/pat/weblog/archives/2003/10/05/003410.php#003410
+description: Israeli Warplanes Bomb Target Deep Inside Syrian Territory (AP) Israeli warplanes bombed what the military called an Islamic Jihad training...
+subject: No Comment.
+date: 2003-10-05T08:48:22-08:00
+
